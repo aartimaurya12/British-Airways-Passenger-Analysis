@@ -35,6 +35,7 @@ The dashboard provides insights into passenger ratings across different services
 - Recommendation analysis  
 
 ## Dashboard Preview
+https://github.com/user-attachments/assets/f0a283cf-8b5b-4785-9cd0-65a713f40b33
 
 
 ## Project Note
